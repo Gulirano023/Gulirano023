@@ -52,7 +52,7 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
-![Instagram](https://shields.io)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-26A5E4?style=for-the-badge&logo=Instagrma&logoColor=white)](https://jmnzrva.r)
 
 
 </div>
