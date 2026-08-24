@@ -17,17 +17,25 @@ I enjoy building creative digital solutions and constantly working on improving 
 * 🎯 **Fun fact:** Coding is not just my profession, it's my biggest hobby!
 
 ---
-### Frontend Core
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io)
+### 🌐 Frontend Core
+* 🟠 **HTML5**
+* 🔵 **CSS3**
+* 🟡 **JavaScript**
+* 🔷 **TypeScript**
 
-### Frameworks & Libraries
-![React](https://shields.io) ![Next.js](https://shields.io) ![Redux](https://shields.io)
+### 📚 Frameworks & Libraries
+* ⚛️ **React**
+* ⬛ **Next.js**
+* 💜 **Redux Toolkit**
 
-### Styling
-![Sass](https://shields.io) ![Tailwind](https://shields.io) ![Bootstrap](https://shields.io)
+### 🎨 Styling
+* 💖 **Sass**
+* 🌊 **Tailwind CSS**
+* 🔮 **Bootstrap**
 
-### Tools & Workflow
-![Git](https://shields.io) ![GitHub](https://shields.io)
+### 🛠️ Tools & Workflow
+* 🧡 **Git**
+* 🐈 **GitHub**
 
 ---
 
