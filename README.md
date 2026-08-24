@@ -50,7 +50,7 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jumanazarova.uz-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jumanazarova.uz)
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumanazarovagulirano62@gmail.com)
 
