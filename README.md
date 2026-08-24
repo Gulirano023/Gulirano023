@@ -50,9 +50,6 @@ I am a passionate developer who loves exploring the world of programming. I enjo
   </a>
 </p>
 
-----
-
-🌐 Connect With Me
 
 <div align="center">
 
