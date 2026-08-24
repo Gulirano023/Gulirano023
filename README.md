@@ -18,17 +18,36 @@ I enjoy building creative digital solutions and constantly working on improving 
 
 ---
 
- 🧰 Tech Stack
 
-🪄 Frontend
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
+### Frontend Core
+<p align="left">
+  <img src="https://shields.io" alt="HTML5"/>
+  <img src="https://shields.io" alt="CSS3"/>
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="TypeScript"/>
+</p>
 
- ⏳ Currently Learning
-* React
-* Python
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://shields.io" alt="React"/>
+  <img src="https://shields.io" alt="Next.js"/>
+  <img src="https://shields.io" alt="Redux Toolkit"/>
+</p>
+
+### Styling
+<p align="left">
+  <img src="https://shields.io" alt="Sass"/>
+  <img src="https://shields.io" alt="Tailwind CSS"/>
+  <img src="https://shields.io" alt="Bootstrap"/>
+</p>
+
+### Tools & Workflow
+<p align="left">
+  <img src="https://shields.io" alt="Git"/>
+  <img src="https://shields.io" alt="GitHub"/>
+</p>
+
+
 
 ---
 
