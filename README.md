@@ -1,8 +1,6 @@
-<p align="right">
-  <img src="https://komarev.com" alt="Profile Views" />
-</p>
 
-# 🌟 Hi, I'm Gulirano
+
+# 🌟 Hi, I'm GuliranoJumanazarova
 
 ### 💻 Front-End Developer | 🧠 Tech Enthusiast
 
