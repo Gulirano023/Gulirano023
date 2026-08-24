@@ -17,37 +17,17 @@ I enjoy building creative digital solutions and constantly working on improving 
 * 🎯 **Fun fact:** Coding is not just my profession, it's my biggest hobby!
 
 ---
-
-
 ### Frontend Core
-<p align="left">
-  <img src="https://shields.io" alt="HTML5"/>
-  <img src="https://shields.io" alt="CSS3"/>
-  <img src="https://shields.io" alt="JavaScript"/>
-  <img src="https://shields.io" alt="TypeScript"/>
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io)
 
 ### Frameworks & Libraries
-<p align="left">
-  <img src="https://shields.io" alt="React"/>
-  <img src="https://shields.io" alt="Next.js"/>
-  <img src="https://shields.io" alt="Redux Toolkit"/>
-</p>
+![React](https://shields.io) ![Next.js](https://shields.io) ![Redux](https://shields.io)
 
 ### Styling
-<p align="left">
-  <img src="https://shields.io" alt="Sass"/>
-  <img src="https://shields.io" alt="Tailwind CSS"/>
-  <img src="https://shields.io" alt="Bootstrap"/>
-</p>
+![Sass](https://shields.io) ![Tailwind](https://shields.io) ![Bootstrap](https://shields.io)
 
 ### Tools & Workflow
-<p align="left">
-  <img src="https://shields.io" alt="Git"/>
-  <img src="https://shields.io" alt="GitHub"/>
-</p>
-
-
+![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ---
 
