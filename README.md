@@ -36,25 +36,19 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-
 ---
 
-## 📊 GitHub Stats
+## 💬 Let's Connect!
 
-<p align="center">
-  <img src="https://vercel.app" alt="Gulirano GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+<p align="left">
+  <a href="mailto:jumanazarovagulirano62@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://t.me">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
 </p>
 
----
-
-## 💬 Quote of the Day
-
-<p align="center">
-  <img src="https://vercel.app" alt="Daily Quotes" />
-</p>
- 🤝 Let's Connect!
-----
-* ✉️ **Email:** [jumanazarovagulirano62@gmail.com](mailto:jumanazarovagulirano62@gmail.com)
-* 📲 **Telegram:** [@Jmnzrvam23](https://t.me/Jmnzrvam23)
-* 🖼️ **Instagram:** [@jmnzrva.r](https://instagram.com/jmnzrva.r)
