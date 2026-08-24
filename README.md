@@ -1,20 +1,24 @@
- 🌟 Hi, I'm Gulirano
+<p align="right">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
-🖥️ **Front-End Developer | 🧠 Tech Enthusiast**
+# 🌟 Hi, I'm Gulirano
 
-I am a passionate developer who loves exploring the world of programming.
+### 💻 Front-End Developer | 🧠 Tech Enthusiast
 
-I enjoy building creative digital solutions and constantly working on improving my coding skills.
+I am a passionate developer who loves exploring the world of programming. I enjoy building creative digital solutions and constantly working on improving my coding skills.
 
 ---
 
- 💫 About Me
+### 💫 About Me
 
-* 🏗️ **Currently working on:** [dehqon.ai](https://dehqon-loyiha1-w6u4.vercel.app/)
-* 🔮 **My Portfolio:** [jumanazarova.uz](https://jumanazarova.uz)
-* 🧗‍♀️ **Currently learning:** React & Python
-* 💡 **Ask me about:** HTML, CSS, JavaScript
-* 🎯 **Fun fact:** Coding is not just my profession, it's my biggest hobby!
+| Xususiyat | Ma'lumot |
+| :--- | :--- |
+| 🚀 **Currently working on** | [dehqon.ai](https://dehqon.ai) |
+| 🌐 **My Portfolio** | [jumanazarova.uz](https://jumanazarova.uz) |
+| 📚 **Currently learning** | React & Python |
+| 💬 **Ask me about** | HTML, CSS, JavaScript |
+| ⚡ **Fun fact** | Coding is not just my profession, it's my biggest hobby! 
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,9 +39,22 @@ I enjoy building creative digital solutions and constantly working on improving 
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://vercel.app" alt="Gulirano GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://vercel.app" alt="Daily Quotes" />
+</p>
  🤝 Let's Connect!
-
+----
 * ✉️ **Email:** [jumanazarovagulirano62@gmail.com](mailto:jumanazarovagulirano62@gmail.com)
 * 📲 **Telegram:** [@Jmnzrvam23](https://t.me/Jmnzrvam23)
 * 🖼️ **Instagram:** [@jmnzrva.r](https://instagram.com/jmnzrva.r)
