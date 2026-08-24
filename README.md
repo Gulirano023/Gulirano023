@@ -25,7 +25,6 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,8 +42,6 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jumanazarova.uz-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jumanazarova.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
-[!Instagram](https://img.shields.io/badge/:badgeContent?style=social&logo=Instagram&logoColor=white&logoSize=auto&color=007bff&link=https%3A%2F%2Fjmnzrva.)
-
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumanazarovagulirano62@gmail.com)
 
 </div>
