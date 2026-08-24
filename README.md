@@ -43,7 +43,8 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jumanazarova.uz-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jumanazarova.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
-[!Instagram](https://img.shields.io/badge/:badgeContentstyle=social&logo=Instagram&logoColor=whitw%2C%20black&logoSize=auto&labelColor=0056b&color=007bff&link=jmnzrva.r)
+[!Instagram](https://img.shields.io/badge/:badgeContent?style=social&logo=Instagram&logoColor=white&logoSize=auto&color=007bff&link=https%3A%2F%2Fjmnzrva.)
+
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumanazarovagulirano62@gmail.com)
 
 </div>
