@@ -38,17 +38,12 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 ---
 
-## 💬 Let's Connect!
 
-<p align="left">
-  <a href="mailto:jumanazarovagulirano62@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jumanazarova.uz-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jumanazarova.uiz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumanazarovagulirano62@gmail.com)
+
+</div>
 
