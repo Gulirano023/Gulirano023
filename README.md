@@ -38,13 +38,15 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 ---
 ## 🌐 Connect With Me
 
-🌷 **My Digital Card:** [https://jumanazarova.uz](https://jumanazarova.uz) 
+🌷 **My Card:** [https://jumanazarova.uz](https://jumanazarova.uz) 
 
 
 📧 **Email:** [jumanazarovagulirano62@gmail.com](mailto:jumanazarovagulirano62@gmail.com) 
 
 
 😊 **My Portfolio:** [https://jumanazarova.uz](https://jumanazarova.uz)
+
+----
 
 <div align="center">
 
