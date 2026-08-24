@@ -36,6 +36,22 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://jumanazarova.uz" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="mailto:jumanazarovagulirano62@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+----
+
 🌐 Connect With Me
 
 <div align="center">
