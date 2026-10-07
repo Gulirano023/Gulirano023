@@ -12,7 +12,7 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 | Xususiyat | Ma'lumot |
 | :--- | :--- |
-| 🚀 **Currently working on** | [dehqon.ai](https://dehqon.ai) |
+| 🚀 **Currently working on** | [dehqon.ai , speakup](https://dehqon.ai , https://speakup) |
 | 🌐 **My Portfolio** | [jumanazarova.uz](https://jumanazarova.uz) |
 | 📚 **Currently learning** | React & Python |
 | 💬 **Ask me about** | HTML, CSS, JavaScript |
