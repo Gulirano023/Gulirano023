@@ -8,7 +8,6 @@ I am a passionate developer who loves exploring the world of programming. I enjo
 
 ### 💫 About Me
 
-
 | Xususiyat | Ma'lumot |
 | :--- | :--- |
 | 🚀 **Currently working on** | [dehqon.ai](https://dehqon.ai) |
