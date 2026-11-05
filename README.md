@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm GuliranoJumanazarova Odomboyevna
+# 🌟 Hi, I'm Gulirano Jumanazarova Odomboyevna
 
 ### 💻 Front-End Developer | 🧠 Tech Enthusiast
 
