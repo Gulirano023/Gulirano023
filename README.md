@@ -1,57 +1,128 @@
-# 🌟 Hi, I'm Gulirano Jumanazarova Odomboyevna
-
-### 💻 Front-End Developer | 🧠 Tech Enthusiast
-
-I am a passionate developer who loves exploring the world of programming. I enjoy building creative digital solutions and constantly working on improving my coding skills.
-
----
-
-### 💫 About Me
-
-| Xususiyat | Ma'lumot |
-| :--- | :--- |
-| 🚀 **Currently working on** | [dehqon.ai](https://dehqon.ai) |
-| 🌐 **My Portfolio** | [jumanazarova.uz](https://jumanazarova.uz) |
-| 📚 **Currently learning** | React & Python |
-| 💬 **Ask me about** | HTML, CSS, JavaScript |
-| ⚡ **Fun fact** | Coding is not just my profession, it's my biggest hobby! 
-
----
-### Frontend Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-## 🌐 Connect With Me
-
-🌷 **My Card:** [https://jumanazarova.uz](https://jumanazarova.uz) 
-
-
-📧 **Email:** [jumanazarovagulirano62@gmail.com](mailto:jumanazarovagulirano62@gmail.com) 
-
-
-😊 **My Portfolio:** [https://jumanazarova.uz](https://jumanazarova.uz)
-
-----
-
 <div align="center">
 
+## 🏆 MY GOALS
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jmnzrva23)
-
-
+🚀 Build real-world products  
+💻 Become a strong full-stack developer  
+🔐 Grow in cybersecurity  
+🌱 Turn startup ideas into real products  
+🌍 Build technology that helps people  
+📚 Improve my English and achieve a high IELTS score
 
 </div>
 
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=GuliraNo023&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffffff" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuliraNo023&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" width="49%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌷 MY DEVELOPMENT JOURNEY
+
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+🌱
+
+**Started Learning**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td align="center">
+
+### 02
+💻
+
+**Building Projects**
+
+Websites • Apps • Startups
+
+</td>
+
+<td align="center">
+
+### 03
+🚀
+
+**Going Further**
+
+React • Python • SQL
+
+</td>
+
+<td align="center">
+
+### 04
+🔐
+
+**Next Level**
+
+Cybersecurity • AI • Full Stack
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## ✨ A FEW THINGS ABOUT ME
+
+💻 Coding is more than just a profession for me.
+
+🌱 I enjoy learning something new every day.
+
+📚 I love reading books.
+
+🚀 I like creating startup ideas and turning them into projects.
+
+💡 I believe technology becomes powerful when it solves real problems.
+
+</div>
+
+---
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<a href="https://jumanazarova.uz">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-ff4fa3?style=for-the-badge">
+</a>
+
+<a href="https://t.me/Jmnzrvam23">
+<img src="https://img.shields.io/badge/Telegram-ff4fa3?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://instagram.com/jmnzrva.r">
+<img src="https://img.shields.io/badge/Instagram-ff4fa3?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+<div align="center">
+
+### 🌸 "Learn. Build. Create. Repeat." 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4fa3&height=100&section=footer"/>
+
+</div>
