@@ -1,128 +1,219 @@
 <div align="center">
 
-## 🏆 MY GOALS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff4fa3&height=180&section=header&text=GULIRA'NO%20JUMANAZAROVA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18"/>
 
-🚀 Build real-world products  
-💻 Become a strong full-stack developer  
-🔐 Grow in cybersecurity  
-🌱 Turn startup ideas into real products  
-🌍 Build technology that helps people  
-📚 Improve my English and achieve a high IELTS score
+</div>
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+<div align="center">
+
+<img src="https://github.com/GuliraNo023.png" width="150" style="border-radius:50%;">
+
+# Gulira'no
+
+### 💻 Frontend Developer
+
+Building ideas into real products through technology. 🚀
 
 </div>
 
 ---
 
-<div align="center">
+### 🌐 Connect
 
-## 📊 GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=GuliraNo023&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffffff" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuliraNo023&theme=radical&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3" width="49%"/>
-
-</div>
+- 🌍 [Portfolio](https://jumanazarova.uz)
+- 💬 [Telegram](https://t.me/Jmnzrvam23)
+- 📸 [Instagram](https://instagram.com/jmnzrva.r)
 
 ---
 
-<div align="center">
+### 📚 Currently Learning
 
-## 🌷 MY DEVELOPMENT JOURNEY
+- ⚛️ React
+- 🟦 TypeScript
+- 🐍 Python
+- 🗄️ SQL / MySQL
+- 🔐 Cybersecurity
+- 🇬🇧 English / IELTS
+
+---
+
+### 💡 Interests
+
+- 💻 Programming
+- 🚀 Startups
+- 🤖 AI
+- 🔐 Cybersecurity
+- 📚 Reading
+- 🌱 Technology
+
+</td>
+
+<td width="72%" valign="top">
+
+# 👋 About Me
+
+Hi! I'm **Gulira'no Jumanazarova**, a young developer passionate about technology, programming and building real-world digital products.
+
+I enjoy turning ideas into projects and learning new technologies along the way.
+
+Currently, I'm focusing on **Frontend Development, React, JavaScript, TypeScript, Python, SQL and Cybersecurity**.
+
+My goal is to become a strong developer and create useful products that solve real problems.
+
+---
+
+# 🚀 Currently Working On
 
 <table>
 <tr>
 
-<td align="center">
+<td width="33%" align="center">
 
-### 01
-🌱
+## 🌱 FARMly
 
-**Started Learning**
+Smart farming platform designed to help farmers manage their farms with modern technology.
 
-HTML • CSS • JavaScript
-
-</td>
-
-<td align="center">
-
-### 02
-💻
-
-**Building Projects**
-
-Websites • Apps • Startups
+**Smart farming, simplified.**
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-### 03
-🚀
+## 🗣️ SpeakUp
 
-**Going Further**
+English speaking practice platform focused on speaking, vocabulary, grammar and fluency.
 
-React • Python • SQL
+**Speak. Practice. Improve.**
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
 
-### 04
-🔐
+## 🎯 TeenSkill
 
-**Next Level**
+A platform concept where teenagers can learn, build projects and prove their skills.
 
-Cybersecurity • AI • Full Stack
+**Learn → Build → Prove**
 
 </td>
 
 </tr>
 </table>
 
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+### Programming & Database
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
 </div>
 
 ---
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-## ✨ A FEW THINGS ABOUT ME
+<img src="https://github-readme-stats.vercel.app/api?username=GuliraNo023&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffffff" width="48%"/>
 
-💻 Coding is more than just a profession for me.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuliraNo023&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4fa3&text_color=ffffff" width="48%"/>
 
-🌱 I enjoy learning something new every day.
+</div>
 
-📚 I love reading books.
+<br>
 
-🚀 I like creating startup ideas and turning them into projects.
+<div align="center">
 
-💡 I believe technology becomes powerful when it solves real problems.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuliraNo023&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="70%"/>
 
 </div>
 
 ---
+
+# 🌷 My Development Journey
+
+| Stage | Focus |
+|---|---|
+| 🌱 **01** | HTML • CSS • JavaScript |
+| 💻 **02** | React • TypeScript • Modern Web |
+| 🚀 **03** | Real-world Projects & Startups |
+| 🐍 **04** | Python • SQL • MySQL |
+| 🔐 **05** | Cybersecurity |
+| 🤖 **06** | AI-powered Products |
+
+---
+
+# 🎯 My Goals
+
 <div align="center">
 
-## 🌐 CONNECT WITH ME
+🚀 Build real-world products  
+💻 Become a strong full-stack developer  
+🔐 Grow my cybersecurity skills  
+🌱 Turn startup ideas into real products  
+🌍 Build technology that helps people  
+📚 Achieve a high IELTS score  
+
+</div>
+
+---
+
+# ✨ Fun Facts
+
+> 💻 Coding is not just my profession — I genuinely enjoy building things.
+
+> 🚀 I like turning ideas into real projects.
+
+> 📚 I enjoy reading and learning new things.
+
+> 💡 I believe technology is most powerful when it solves real problems.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://jumanazarova.uz">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-ff4fa3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-jumanazarova.uz-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="https://t.me/Jmnzrvam23">
-<img src="https://img.shields.io/badge/Telegram-ff4fa3?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-@Jmnzrvam23-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="https://instagram.com/jmnzrva.r">
-<img src="https://img.shields.io/badge/Instagram-ff4fa3?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-@jmnzrva.r-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
 
----
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-### 🌸 "Learn. Build. Create. Repeat." 🌸
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4fa3&height=100&section=footer"/>
+### 🌸 Learn • Build • Create • Repeat 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,100:0d1117&height=120&section=footer"/>
 
 </div>
