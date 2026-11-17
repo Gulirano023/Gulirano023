@@ -4,19 +4,20 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="28%" valign="top">
+
+<td width="25%" valign="top">
 
 <div align="center">
 
-<img src="https://github.com/GuliraNo023.png" width="150" style="border-radius:50%;">
+<img src="https://github.com/GuliraNo023.png" width="120">
 
-# Gulira'no
+### Gulira'no
 
-### 💻 Frontend Developer
+**Frontend Developer**
 
-Building ideas into real products through technology. 🚀
+Turning ideas into real products through technology. 🚀
 
 </div>
 
@@ -24,41 +25,43 @@ Building ideas into real products through technology. 🚀
 
 ### 🌐 Connect
 
-- 🌍 [Portfolio](https://jumanazarova.uz)
-- 💬 [Telegram](https://t.me/Jmnzrvam23)
-- 📸 [Instagram](https://instagram.com/jmnzrva.r)
+🌍 [Portfolio](https://jumanazarova.uz)
+
+💬 [Telegram](https://t.me/Jmnzrvam23)
+
+📸 [Instagram](https://instagram.com/jmnzrva.r)
 
 ---
 
-### 📚 Currently Learning
+### 📚 Learning
 
-- ⚛️ React
-- 🟦 TypeScript
-- 🐍 Python
-- 🗄️ SQL / MySQL
-- 🔐 Cybersecurity
-- 🇬🇧 English / IELTS
+⚛️ React  
+🟦 TypeScript  
+🐍 Python  
+🗄️ SQL / MySQL  
+🔐 Cybersecurity  
+🇬🇧 English / IELTS
 
 ---
 
 ### 💡 Interests
 
-- 💻 Programming
-- 🚀 Startups
-- 🤖 AI
-- 🔐 Cybersecurity
-- 📚 Reading
-- 🌱 Technology
+💻 Programming  
+🚀 Startups  
+🤖 AI  
+🔐 Cybersecurity  
+📚 Reading  
+🌱 Technology
 
 </td>
 
-<td width="72%" valign="top">
+<td width="75%" valign="top">
 
 # 👋 About Me
 
 Hi! I'm **Gulira'no Jumanazarova**, a young developer passionate about technology, programming and building real-world digital products.
 
-I enjoy turning ideas into projects and learning new technologies along the way.
+I enjoy turning ideas into projects and continuously improving my skills.
 
 Currently, I'm focusing on **Frontend Development, React, JavaScript, TypeScript, Python, SQL and Cybersecurity**.
 
@@ -66,16 +69,18 @@ My goal is to become a strong developer and create useful products that solve re
 
 ---
 
-# 🚀 Currently Working On
+<div align="center">
 
-<table>
+## 🚀 Currently Working On
+
+<table width="100%">
 <tr>
 
 <td width="33%" align="center">
 
-## 🌱 FARMly
+### 🌱 FARMly
 
-Smart farming platform designed to help farmers manage their farms with modern technology.
+Smart farming platform.
 
 **Smart farming, simplified.**
 
@@ -83,9 +88,9 @@ Smart farming platform designed to help farmers manage their farms with modern t
 
 <td width="33%" align="center">
 
-## 🗣️ SpeakUp
+### 🗣️ SpeakUp
 
-English speaking practice platform focused on speaking, vocabulary, grammar and fluency.
+English speaking practice platform.
 
 **Speak. Practice. Improve.**
 
@@ -93,9 +98,9 @@ English speaking practice platform focused on speaking, vocabulary, grammar and 
 
 <td width="33%" align="center">
 
-## 🎯 TeenSkill
+### 🎯 TeenSkill
 
-A platform concept where teenagers can learn, build projects and prove their skills.
+Learn, build and prove skills.
 
 **Learn → Build → Prove**
 
@@ -104,91 +109,134 @@ A platform concept where teenagers can learn, build projects and prove their ski
 </tr>
 </table>
 
+</div>
+
 ---
 
-# 🛠️ Tech Stack
-
 <div align="center">
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" height="38">
 
 ### Programming & Database
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql&perline=6" height="38">
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=6" height="38">
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuliraNo023&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffffff" width="48%"/>
+## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuliraNo023&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4fa3&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GuliraNo023&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffffff" width="48%">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuliraNo023&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4fa3&text_color=ffffff" width="48%">
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuliraNo023&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GuliraNo023&hide_border=true&background=0d1117&ring=ff4fa3&fire=ff4fa3&currStreakLabel=ff4fa3&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" width="70%">
 
 </div>
 
 ---
 
-# 🌷 My Development Journey
+<div align="center">
 
-| Stage | Focus |
-|---|---|
-| 🌱 **01** | HTML • CSS • JavaScript |
-| 💻 **02** | React • TypeScript • Modern Web |
-| 🚀 **03** | Real-world Projects & Startups |
-| 🐍 **04** | Python • SQL • MySQL |
-| 🔐 **05** | Cybersecurity |
-| 🤖 **06** | AI-powered Products |
+## 🌷 My Development Journey
+
+<table width="100%">
+<tr>
+
+<td align="center">
+
+### 🌱 01
+
+**Started Learning**
+
+HTML • CSS • JavaScript
+
+</td>
+
+<td align="center">
+
+### 💻 02
+
+**Building Projects**
+
+Websites • Apps • Startups
+
+</td>
+
+<td align="center">
+
+### 🚀 03
+
+**Going Further**
+
+React • Python • SQL
+
+</td>
+
+<td align="center">
+
+### 🔐 04
+
+**Next Level**
+
+Cybersecurity • AI • Full Stack
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🎯 My Goals
-
 <div align="center">
+
+## 🎯 My Goals
 
 🚀 Build real-world products  
 💻 Become a strong full-stack developer  
 🔐 Grow my cybersecurity skills  
 🌱 Turn startup ideas into real products  
 🌍 Build technology that helps people  
-📚 Achieve a high IELTS score  
+📚 Achieve a high IELTS score
 
 </div>
 
 ---
 
-# ✨ Fun Facts
+<div align="center">
 
-> 💻 Coding is not just my profession — I genuinely enjoy building things.
+## ✨ Fun Facts
 
-> 🚀 I like turning ideas into real projects.
+💻 Coding is more than just my profession — I genuinely enjoy building things.
 
-> 📚 I enjoy reading and learning new things.
+🚀 I like turning ideas into real projects.
 
-> 💡 I believe technology is most powerful when it solves real problems.
+📚 I enjoy reading and learning new things.
+
+💡 I believe technology is most powerful when it solves real problems.
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://jumanazarova.uz">
 <img src="https://img.shields.io/badge/Portfolio-jumanazarova.uz-ff4fa3?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -205,6 +253,7 @@ A platform concept where teenagers can learn, build projects and prove their ski
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -214,6 +263,6 @@ A platform concept where teenagers can learn, build projects and prove their ski
 
 ### 🌸 Learn • Build • Create • Repeat 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,100:0d1117&height=120&section=footer">
 
 </div>
