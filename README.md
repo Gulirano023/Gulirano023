@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff4fa3&height=180&section=header&text=GULIRA'NO%20JUMANAZAROVA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=18"/>
 
+
 </div>
 
 <table width="100%">
